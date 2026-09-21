@@ -1,4 +1,4 @@
-# 📄 Leitor de Contratos em Python
+# 📄 Leitor de Contratos em Python.
 
 Projeto desenvolvido em Python para auxiliar na análise de contratos em PDF, identificando automaticamente valores, formas de remuneração e condições de pagamento.
 
